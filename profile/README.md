@@ -9,6 +9,7 @@ Hands-on builds for the AI infrastructure substrate, from GPU allocation to the 
 - [Gateway API Inference Extension](https://github.com/christian-dussol-ai-native/gateway-api-inference-extension) - Model-aware request routing with GAIE and agentgateway, no GPU required
 - [Model Context Protocol](https://github.com/christian-dussol-ai-native/model-context-protocol) - MCP in practice: connecting agents to systems under governance
 - [AGENTS.md](https://github.com/christian-dussol-ai-native/AGENTS.md)- the open format for giving coding agents project-specific guidance
+- [goose](https://github.com/christian-dussol-ai-native/goose)- the open source agent runtime that runs locally and speaks MCP
 
 ## 📚 About
 
